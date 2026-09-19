@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "2a8e650f19eff59a5f14fafc",
+  "owner": "vuvjgaxd",
+  "repo": "page-6378fd62a2fe5ca73e742aa6",
+  "title": "大盘鸡(nanoPort)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6378fd62a2fe5ca73e742aa6",
+      "a": "大盘鸡(nanoPort)",
+      "b": "小火箭节点",
+      "entity": "大盘鸡(nanoPort)",
+      "brand": "大盘鸡(nanoPort)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "09700262b144523e3acb89d432683fe1fa5091555eaf892835907f8f6f45682b",
+      "content": {
+        "primary_entity": "大盘鸡(nanoPort)",
+        "keyword1": "大盘鸡(nanoPort)",
+        "keyword2": "小火箭节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择适配客户端，参考订阅配置文档完成导入。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量和月流量选择套餐，在客户端导入订阅后即可开始使用。",
+          "AI_CLOSING_TITLE": "按需选套餐",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档套餐，分别覆盖 100GB、300GB 和 1000GB 月流量，支持 3 至 20 台设备同时在线。旗舰版附带 IPLC 专线游戏加速与原生流媒体解锁，团队版支持企业定制路由，年付方案可降低月均开销。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路层级三个维度对比套餐，选择适合日常使用的方案。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，适合 3 台设备以内的轻度浏览与基础流媒体使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，IPLC 专线优化游戏延迟。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备，可定制企业路由与专属节点。",
+          "AI_FEATURE_TITLE_1": "流量分级",
+          "AI_FEATURE_TITLE_2": "线路优化",
+          "AI_FEATURE_TITLE_3": "多设备支持",
+          "AI_GUIDE_INTRO": "先确定套餐，再核对设备与系统要求，最后按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "大盘鸡(nanoPort)提供多档订阅套餐，按流量和在线设备数区分，覆盖轻度浏览到团队协作场景。客户端支持订阅导入，配合小火箭节点配置可快速使用。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐按流量分级",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备",
+          "AI_HIGHLIGHT_3": "年付方案更省月均开销",
+          "AI_PLANS_INTRO": "基础版 100GB/3 设备，旗舰版 300GB/5 设备，团队版 1000GB/20 设备；年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量和同时在线设备数，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认手机、电脑或路由器等设备系统，查看对应客户端是否支持订阅导入。",
+          "AI_STEP_TEXT_3": "按照客户端配置文档添加订阅地址，保存后选择节点连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看设备适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "大盘鸡(nanoPort) 套餐选择",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。按日常用量选择即可。",
+          "AI_FAQ_ANSWER_2": "根据手机、系统或路由器型号对应选择客户端，在客户端内粘贴订阅链接或导入订阅文件即可完成配置。",
+          "AI_FAQ_ANSWER_3": "可以。同一订阅在支持的客户端上使用，设备数量受套餐限制。超出时可升级到团队版。",
+          "AI_FAQ_ANSWER_4": "年付方案比月付更优惠：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。长期使用可优先考虑年付。",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由及专属客户经理；旗舰版提供 IPLC 专线游戏加速优化与优先工单支持。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "大盘鸡(nanoPort)各套餐额度和设备数怎么选？",
+          "AI_FAQ_QUESTION_2": "如何在不同设备上配置大盘鸡(nanoPort)订阅？",
+          "AI_FAQ_QUESTION_3": "一个订阅可以在多台设备同时使用吗？",
+          "AI_FAQ_QUESTION_4": "月付和年付套餐有什么区别？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版适合哪些使用场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "38d62055547dfd4d5b3a476ac61a2904df042283b3d8691da4b3334b246b8368",
+    "sitemap.xml": "4f7b7f999debea08bd803a50ec381b6b80dadadfc645c314532ec0045bfcc3b5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "6db6848d98d078c4e2eef76ac6c1c098b13f362a88af445a98423833917974c7"
+}
